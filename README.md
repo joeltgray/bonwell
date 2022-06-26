@@ -1,2 +1,2 @@
 # bonwell
-A place for random programs, scripts and other bits and pieces.
+A place for random programs, scripts and library files serving graycode.ie
